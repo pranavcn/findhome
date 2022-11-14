@@ -1,7 +1,14 @@
 
-# 
+# Findhome
 
 Project that will keep track of my home search
+
+# Features
+
+1. Homes
+ 1.1 Add home (Location, under which company (GMADA or MC), builder, dealer, images, videos, thirdparty link, price, possession time)
+2. Dealers
+ 2.1 Add dealer (Name, office location, website link, contact)
 
 ## API Reference
 
